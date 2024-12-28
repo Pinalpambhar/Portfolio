@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Inter", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Style the scrollbar track */
+::-webkit-scrollbar {
+  width: 15px; /* Set the width of the scrollbar */
+}
+
+/* Style the scrollbar track */
+::-webkit-scrollbar-track {
+  background: #2d2d2d; /* Background color of the track */
+}
+
+/* Style the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background: #6b21a8; /* Color of the scrollbar */
+  border: 3px solid #2d2d2d; /* Adds padding effect */
+  border-radius: 10px; /* Rounds the scrollbar thumb */
+}
+
+/* Style the scrollbar thumb when hovered */
+::-webkit-scrollbar-thumb:hover {
+  background: #6b21a8; /* Darker color when hovered */
+}
+
+/* Style for the scrollbar buttons (optional) */
+::-webkit-scrollbar-button {
+  display: none; /* Hide the scrollbar buttons */
+}
