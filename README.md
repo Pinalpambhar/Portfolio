@@ -17,19 +17,20 @@ Here're some of the project's best features:
 <h2>💻 Tech Stack</h2>
 
 <h3>Frameworks & Libraries</h3>
-* **React:** Frontend library for building UI components.
-* **Vite:** Fast development environment and build tool.
-* **Tailwind CSS:** Utility-first CSS framework for styling.
-* **Framer Motion:** Library for animations and transitions.
-* **Spline:** 3D modeling integration for immersive experiences.
-* **React Icons:** Predefined icons for enhancing UI design.
+   <b>React:</b> Frontend library for building UI components. <br/>
+   <b>Vite:</b> Fast development environment and build tool. <br/>
+   <b>Tailwind CSS:</b> Utility-first CSS framework for styling. <br/>
+   <b>Framer Motion:</b> Library for animations and transitions. <br/>
+   <b>Spline:</b> 3D modeling integration for immersive experiences. <br/>
+   <b>React Icons:</b> Predefined icons for enhancing UI design. <br/>
 
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone the Repository</p>
 
 ```
-  git clone https://github.com/pinalpambhar/pinal-pambhar-portfolio.git cd your-portfolio
+  git clone https://github.com/pinalpambhar/pinal-pambhar-portfolio.git 
+  cd your-portfolio
 ```
 
 <p>2. Install Dependencies</p>
